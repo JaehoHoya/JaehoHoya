@@ -1,6 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=000000&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Jaeho.+%E3%80%80%E3%80%80)
 
-<div style="text-align: left;">
+## 👨‍💻 About Me
+
+Hello! I'm Jaeho, a passionate software developer with experience in building web applications and services. I have a strong background in Java, Spring, React, Node.js, and other technologies. I enjoy creating efficient and scalable solutions to real-world problems.
 
 ## 🛠️ Tech Stacks
 
