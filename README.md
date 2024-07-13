@@ -1,10 +1,9 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=000000&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Jaeho.+%E3%80%80%E3%80%80
 )
 
-<div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> "Hello,word!" </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> 저는 개발하면서 새로운 경험을 하며  흡수하고 자신의 것으로 만들어 매일 발전하는 개발자입니다. </div> 
-    </div>
+
+
+    
     <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
