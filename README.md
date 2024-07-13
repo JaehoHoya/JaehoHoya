@@ -4,8 +4,12 @@
 
 ## 👨‍💻 About Me
 
-### Hello! 👋
-I'm Jaeho, a passionate software developer specializing in web applications and services. With a solid foundation in **Java**, **Spring**, **React**, and **Node.js**, I thrive on tackling complex challenges and crafting efficient solutions. My goal is to create scalable applications that make a positive impact.
+### "Hello, World!" 👋
+저는 새로운 코드를 보면 **control+c v**가 아닌 직접 코드작성하고 이해하며  자신의 것으로 **흡수**하는 개발자입니다.
+**JAVA**백엔드 개발자 
+-**성결대학교** 졸업 2019~2025
+-**취업** 준비중    2024~
+
 
 ## 🛠️ Tech Stacks
 
