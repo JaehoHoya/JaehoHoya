@@ -9,6 +9,8 @@
 * **성결대학교** 정보통신공학과 **졸업**          *2019~2025*
 * 육군 102기갑여단 **통신병**          *만기   전역*
 
+## 📝 회고록
+공부하면서 어려웠던 점,누군가에게는 쉬운 내용일지라도 나 자신이 기억하고자.
 <div style="text-align: left;">
 <a href="https://polyester-knot-a91.notion.site/789d45f8e679432f810bf0f872274e48">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
@@ -17,6 +19,7 @@
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
     </a>
 <div/>
+ 
 ## 🪪 자격증
 
 * 정보처리기사 준비중
