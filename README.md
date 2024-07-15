@@ -38,7 +38,7 @@
     <a href="https://www.instagram.com/jaeho_hoya/">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
     </a>
-    <a href="mailto:your-email@example.com">
+    <a href="mailto:1010wogh@example.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
     <a href="https://polyester-knot-a91.notion.site/789d45f8e679432f810bf0f872274e48">
