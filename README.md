@@ -41,7 +41,7 @@
     <a href="mailto:your-email@example.com">
         <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
     </a>
-    <a href="https://www.notion.so/">
+    <a href="https://polyester-knot-a91.notion.site/789d45f8e679432f810bf0f872274e48">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
     </a>
     <a href="https://jaehohoya.tistory.com/"> 
