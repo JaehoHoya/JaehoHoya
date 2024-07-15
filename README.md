@@ -1,5 +1,3 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Oleo+Script&color=000000&size=35&center=true&vCenter=true&width=404&height=53&lines=%E3%80%80%E3%80%80Hi+there%2C+I'm+Jaeho.+%E3%80%80%E3%80%80)
-
 <div style="text-align: left;">
 
 ## 👨‍💻 About Me
@@ -8,8 +6,7 @@
 
 저는 새로운 코드를 보면 **Ctrl CV**가 아닌 직접 코드를 작성하고 이해하며 자신의 것으로 **흡수**하는 개발자입니다.
 
-
-* **JAVA**백엔드 개발자를 **목표로!** 
+* **JAVA** 백엔드 개발자를 **목표로!** 
 * **성결대학교** 정보통신공학과 **졸업**          *2019~2025*
 * 육군 102기갑여단 **통신병**          *만기   전역*
 
@@ -47,12 +44,9 @@
     <a href="https://www.notion.so/">
         <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
     </a>
-
-     <a href=https://jaehohoya.tistory.com/> 
-      <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://jaehohoya.tistory.com/"> 
-      </a>
+    <a href="https://jaehohoya.tistory.com/"> 
+        <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white">
+    </a>
 </div>
 
 </div>
-
-
