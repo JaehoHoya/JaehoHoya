@@ -22,7 +22,6 @@
  
 ## 🪪 자격증
 
-
 ## 🛠️ Tech Stacks
 
 <div style="margin: 20px 0; text-align: left;">
