@@ -21,6 +21,7 @@
 <div/>
  
 ## 🪪 자격증
+sqld
 
 ## 🛠️ Tech Stacks
 
