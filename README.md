@@ -14,7 +14,7 @@
 -->
 ## 🪪 자격증
 
--SQLD
+- SQLD
 
 ## 🛠️ Tech Stacks
 
