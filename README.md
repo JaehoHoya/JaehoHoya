@@ -2,7 +2,8 @@
 
 ## 👨‍💻 About Me
  
-### "Hello, World!" 👋
+<img width="620" height="495" alt="image" src="https://github.com/user-attachments/assets/f7d6293f-35fd-4469-b646-816e5a34f18c" />
+
 
 
 ## 🛠️ Tech Stacks
