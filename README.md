@@ -2,9 +2,6 @@
 
 ## 👨‍💻 About Me
 
-<h1 align="center"> 공부중입니다 </h1>
-
- 
 ![hi](https://github.com/user-attachments/assets/d1b1c29d-3c89-4ea7-8663-b413a968128f)
 
 ## 🛠️ Tech Stacks
