@@ -2,14 +2,14 @@
     
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Hi%20There!%20-nl-I'm%20Jaeho%20Jeong~&fontSize=40&fontColor=888888)
     
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=e0e0e0&height=60&section=header&text=Studying...&fontSize=30&fontColor=888888)
     
 <img src="https://github.com/user-attachments/assets/d1b1c29d-3c89-4ea7-8663-b413a968128f" style="width: 100%; height: auto;">
 
     
-## 🛠️ Tech Stacks
+# 🛠️ Tech Stacks
 
 <div style="margin: 20px 0; text-align: left;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
 </div>
 
-## 🧑‍💻 Contact Me
+# 🧑‍💻 Contact Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/왜눌렀니~~ㅋㅋㅋㅎㅋㅎㅋㅎ/)
 [![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/누구세요~~~)
