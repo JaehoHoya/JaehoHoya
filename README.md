@@ -1,6 +1,6 @@
 <div style="text-align: left;"> 
     
-![header](https://capsule-render.vercel.app/api?type=transparent&color=e0e0e0&height=120&section=header&text=Hi%20there!-nl-my%20name%20is%20Jaeho%20Jeong~&fontSize=40&fontColor=888888)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=120&section=header&text=Hi%20there!%20-nl-I'm%20Jaeho%20Jeong~&fontSize=40&fontColor=888888)
     
 ## 👨‍💻 About Me
 
