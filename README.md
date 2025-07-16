@@ -28,8 +28,8 @@
 
 ## 🧑‍💻 Contact Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/내_계정아이디/)
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/내_아이디)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/왜 눌렀니~~ ㅋㅋㅋㅎㅋㅎㅋㅎ/)
+[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://blog.naver.com/누구세요 ~~~)
 
 
 </div>
