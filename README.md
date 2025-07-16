@@ -1,7 +1,9 @@
-<div style="text-align: left;">    
+<div style="text-align: left;"> 
+    
+![header](https://capsule-render.vercel.app/api?type=transparent&color=e0e0e0&height=120&section=header&text=Hi%20there!-nl-my%20name%20is%20Jaeho%20Jeong~&fontSize=40&fontColor=888888)
     
 ## 👨‍💻 About Me
-    
+
 ![header](https://capsule-render.vercel.app/api?type=soft&color=e0e0e0&height=60&section=header&text=공부중...&fontSize=30&fontColor=888888)
     
 <img src="https://github.com/user-attachments/assets/d1b1c29d-3c89-4ea7-8663-b413a968128f" style="width: 100%; height: auto;">
