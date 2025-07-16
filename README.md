@@ -27,10 +27,7 @@
 </div>
 
 # 🧑‍💻 Contact Me
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jaeho_hoya)
-[![Naver](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](https://1010wogh@naver.com)
-
 
 </div>
 
