@@ -8,7 +8,6 @@
     
 <img src="https://github.com/user-attachments/assets/d1b1c29d-3c89-4ea7-8663-b413a968128f" style="width: 100%; height: auto;">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=e0e0e0&height=200&section=header&fontSize=30&fontColor=888888)
     
 ## 🛠️ Tech Stacks
 
