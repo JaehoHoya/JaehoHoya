@@ -2,9 +2,7 @@
 
 ## 👨‍💻 About Me
  
-<img width="620" height="495" alt="image" src="https://github.com/user-attachments/assets/f7d6293f-35fd-4469-b646-816e5a34f18c" />
-
-
+![hi](https://github.com/user-attachments/assets/d1b1c29d-3c89-4ea7-8663-b413a968128f)
 
 ## 🛠️ Tech Stacks
 
