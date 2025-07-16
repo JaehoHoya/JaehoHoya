@@ -2,10 +2,9 @@
 
 <p align="center"><strong><em>Hi~ My name is Jaeho Jeong!</em></strong></p>
 
-
 ## 👨‍💻 About Me
 
-![hi](https://github.com/user-attachments/assets/d1b1c29d-3c89-4ea7-8663-b413a968128f)
+<img src="https://github.com/user-attachments/assets/d1b1c29d-3c89-4ea7-8663-b413a968128f" style="width: 100%; height: auto;">
 
 ## 🛠️ Tech Stacks
 
